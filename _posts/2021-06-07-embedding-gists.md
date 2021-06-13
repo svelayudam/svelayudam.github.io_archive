@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: home
 title: "Embedding a Gist in a Post"
 ---
-
-# Embedding a Gist in a Post
 
 **Gist** is useful for sharing snippets of code.
 
